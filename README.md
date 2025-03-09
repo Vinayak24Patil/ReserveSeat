@@ -22,5 +22,10 @@ The Airline Management System is a Java-based application designed to streamline
    ```bash
    git clone https://github.com/yourusername/AirlineManagementSystem.git
 
-📽️ [Watch My Video]([https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/my-video.mp4](https://www.linkedin.com/feed/update/urn:li:activity:7259995385396363264/))
+## 📸 Screenshots
 
+### ✈️ Book Flight
+![Book Flight](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/book-flight.jpg)
+
+### 🧑‍💼 Add Customer Details
+![Add Customer](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/add-customer.jpg)
