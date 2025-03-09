@@ -28,4 +28,4 @@ The Airline Management System is a Java-based application designed to streamline
 ![Book Flight](https://github.com/Vinayak24Patil/Airline_Reservation_System/blob/main/im1.jpg)
 
 ### 🧑‍💼 Add Customer Details
-![Add Customer](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/add-customer.jpg)
+![Add Customer]((https://github.com/Vinayak24Patil/Airline_Reservation_System/blob/main/im2.jpg))
