@@ -27,7 +27,7 @@
 1. Make sure Java Development Kit (JDK) is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Vinayak24Patil/Airline_Reservation_System.git
+     git clone https://github.com/Vinayak24Patil/ReserveSeat.git
 
 ## 📸 Screenshots
 
