@@ -1,26 +1,33 @@
-# ReserveSeat
+# 🎟️ ReserveSeat
 
-## Overview
-The Airline Management System is a Java-based application designed to streamline airline operations. It provides a user-friendly graphical user interface (GUI) using Swing, allowing users to manage flight details, customer information, and ticket bookings seamlessly.
+## ✈️ Overview  
+**ReserveSeat** is a Java-based airline reservation system designed to streamline airline operations. It features a user-friendly graphical interface built with Swing, allowing users to manage flight details, customer information, ticket bookings, and more with ease.
 
-## Features
-- **Flight Details**: View available flights and their details.
-- **Add Customer Details**: Input and manage customer information.
-- **Book Flight**: Reserve seats on desired flights.
-- **Journey Details**: Track and manage customer journeys.
-- **Cancel Ticket**: Cancel previously booked tickets.
-- **Boarding Pass**: Generate boarding passes for customers.
+---
 
-## Technologies Used
-- Java
-- Swing (for GUI)
-- AWT (for layout and event handling)
+## 🚀 Features
+- ✈️ **Flight Details**: View and manage available flights.
+- 👤 **Add Customer Details**: Input and maintain customer information.
+- 🪑 **Book Flight**: Reserve seats on selected flights.
+- 📍 **Journey Details**: Track and view journey-related information.
+- ❌ **Cancel Ticket**: Cancel existing bookings with ease.
+- 🎟️ **Boarding Pass**: Generate printable boarding passes for passengers.
 
-## Installation
-1. Ensure you have Java Development Kit (JDK) installed on your machine.
+---
+
+## 🛠️ Technologies Used
+- **Java**  
+- **Swing** (for GUI development)  
+- **AWT** (for layout and event handling)
+
+---
+
+## 🧑‍💻 Installation & Run Locally
+
+1. Make sure Java Development Kit (JDK) is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/AirlineManagementSystem.git
+   git clone https://github.com/Vinayak24Patil/Airline_Reservation_System.git
 
 ## 📸 Screenshots
 
